@@ -1,0 +1,70 @@
+/* Estilos globales */
+body {
+    font-family; animation: infinite;
+    margin: 5;
+    padding: 5;
+    background-color: darkorchid;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Estilos del encabezado */
+header {
+    background-color: #d40098;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+/* Estilos del formulario */
+.formulario {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+.formulario h2 {
+    font-size: 20px;
+}
+
+.formulario label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.formulario input[type="text"],
+.formulario input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+}
+
+.formulario button {
+    background-color: hsl(331, 100%, 42%);
+    color:rosybrown;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Estilos del pie de página */
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    paddingvscode-file://vscode-app/c:/Users/Jose/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html: 10px 0;
+}
